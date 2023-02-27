@@ -1,3 +1,6 @@
+"""
+Módulo para verificação de múltiplos de 5 e 7.
+"""
 def verificar_multiplo(numero):
     """
     Verifica se um número é múltiplo de 5 e/ou 7.
